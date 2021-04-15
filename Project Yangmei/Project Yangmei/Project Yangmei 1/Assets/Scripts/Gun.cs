@@ -4,9 +4,11 @@ using UnityEngine;
 
 public class Gun : MonoBehaviour
 {
+    [Header("Gun Fire and More")]
     public float damage = 25f;
     public float range = 100f;
 
+    [Header("Camera")]
     public Camera fpsCam;
 
     [Header("Effect Stuff lol")]
