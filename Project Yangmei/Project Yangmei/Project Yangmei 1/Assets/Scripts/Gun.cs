@@ -9,6 +9,9 @@ public class Gun : MonoBehaviour
 
     public Camera fpsCam;
 
+    [Header("Effect Stuff lol")]
+    public ParticleSystem muzzleFlash;
+    public Transform muzzle;
 
 
     // Update is called once per frame
@@ -32,6 +35,8 @@ public class Gun : MonoBehaviour
             {
                 target.TakeDamage(damage);
             }
+
+            Instantiate(muzzleFlash, muzzle.position, muzzle.rotation);
         }
     }
 }
