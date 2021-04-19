@@ -621,3 +621,46 @@ System memory in use after: 70.1 MB.
 Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1754.
 Total: 2.058500 ms (FindLiveObjects: 0.208100 ms CreateObjectMapping: 0.032200 ms MarkObjects: 1.506600 ms  DeleteObjects: 0.310800 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000991 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.642 seconds
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1219 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.4 MB.
+System memory in use after: 70.1 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1756.
+Total: 2.022400 ms (FindLiveObjects: 0.202100 ms CreateObjectMapping: 0.034000 ms MarkObjects: 1.490700 ms  DeleteObjects: 0.294600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 409513.077261 seconds.
+  path: Assets/Scripts/Gun.cs
+  artifactKey: Guid(c0c1a0a3e13a1a84bb463c7097cf6317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Gun.cs using Guid(c0c1a0a3e13a1a84bb463c7097cf6317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b92aa19e874f5f548fabaf03f117e0f8') in 0.021577 seconds
+  Import took 0.024436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001559 seconds.
+  path: Assets/Scripts/Gun.cs
+  artifactKey: Guid(c0c1a0a3e13a1a84bb463c7097cf6317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Gun.cs using Guid(c0c1a0a3e13a1a84bb463c7097cf6317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b92aa19e874f5f548fabaf03f117e0f8') in 0.002120 seconds
+  Import took 0.004000 seconds .
+
