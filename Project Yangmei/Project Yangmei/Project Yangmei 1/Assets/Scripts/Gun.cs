@@ -103,7 +103,7 @@ public class Gun : MonoBehaviour
     }
     void Shoot()
     {
-
+       // muzzleFlash.Play();
         currentAmmo --;
         RaycastHit hit;
         if (Physics.Raycast(fpsCam.transform.position, fpsCam.transform.forward, out hit, range))
@@ -116,7 +116,7 @@ public class Gun : MonoBehaviour
                 target.TakeDamage(damage);
             }
 
-            Instantiate(muzzleFlash, muzzle.position, muzzle.rotation);
+           Instantiate(muzzleFlash, muzzle.position, muzzle.rotation);
         }
     }
 }
