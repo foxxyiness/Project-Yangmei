@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro; 
 
 public class Gun : MonoBehaviour
 {
@@ -10,12 +11,17 @@ public class Gun : MonoBehaviour
     public float fireRate = 15;
     public float impactForce = 30f;
 
-    public int maxAmmo = 10;
+    public int ammoInClip = 10;
+    public int maxAmmo = 70;
     private int currentAmmo;
     public float reloadTime = 1f;
     private bool isReloading;
 
     private float nextTimeToFire = 0f;
+
+    [Header("Text UI Stuff")]
+    public TextMeshProUGUI cAmmo;
+    public TextMeshProUGUI mAmmo;
 
     [Header("Animations")]
     public Animator animator;
@@ -29,7 +35,7 @@ public class Gun : MonoBehaviour
 
     void Start()
     {
-        currentAmmo = maxAmmo;
+        currentAmmo = ammoInClip;
     }
 
     void OnEnable()
@@ -42,22 +48,42 @@ public class Gun : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        cAmmo.SetText(currentAmmo.ToString());
+        mAmmo.SetText(maxAmmo.ToString());
+
         //Checks to see if gun is reloading
         if (isReloading)
             return;
 
-
-        if(currentAmmo <= 0 || Input.GetButtonDown("Reload"))
+        //Reloads if clip is empty
+        if(currentAmmo <= 0)
         {
             StartCoroutine(Reload());
+            maxAmmo -= ammoInClip;
+            return;
+        }
+        //Reloads if Ammo has been shot and player presses reload button "r"
+        if(currentAmmo < ammoInClip && Input.GetButtonDown("Reload"))
+        {
+            StartCoroutine(Reload());
+            maxAmmo = maxAmmo - (ammoInClip - currentAmmo);
             return;
         }
 
+        //Shoots weapon if Left Clip is presses with the rate of fire for the weapon
         if (Input.GetButtonDown("Fire1") && Time.time >= nextTimeToFire)
         {
             nextTimeToFire = Time.time + 1f / fireRate;
             Shoot();
         }
+
+
+        /*
+        if(maxAmmo <= 0 && currentAmmo <= 0)
+        {
+            Destroy(gameObject);
+        }
+        */
     }
 
     IEnumerator Reload()
@@ -71,7 +97,7 @@ public class Gun : MonoBehaviour
         animator.SetBool("Reloading", false);
         yield return new WaitForSeconds(.25f);
 
-        currentAmmo = maxAmmo;
+        currentAmmo = ammoInClip;
         isReloading = false;
 
     }
