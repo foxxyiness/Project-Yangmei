@@ -859,6 +859,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   damage: 25
   range: 100
+  fireRate: 5
+  impactForce: 30
+  maxAmmo: 10
+  reloadTime: 1
   fpsCam: {fileID: 963194227}
   muzzleFlash: {fileID: 198719912503724044, guid: 3dd9cf2e209c504448f1c4c6835675cf, type: 3}
   muzzle: {fileID: 4207727599614456003}
