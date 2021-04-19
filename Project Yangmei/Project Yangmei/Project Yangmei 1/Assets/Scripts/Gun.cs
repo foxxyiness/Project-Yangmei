@@ -33,10 +33,12 @@ public class Gun : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //Checks to see if gun is reloading
         if (isReloading)
             return;
 
-        if(currentAmmo <= 0)
+
+        if(currentAmmo <= 0 || Input.GetButtonDown("Reload"))
         {
             StartCoroutine(Reload());
             return;
