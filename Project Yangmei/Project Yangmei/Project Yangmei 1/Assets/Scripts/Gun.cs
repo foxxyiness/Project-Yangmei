@@ -11,6 +11,7 @@ public class Gun : MonoBehaviour
     public float fireRate = 15;
     public float impactForce = 30f;
 
+    [Header("Ammo Stuff")]
     public int ammoInClip = 10;
     public int maxAmmo = 70;
     private int currentAmmo;
@@ -18,6 +19,8 @@ public class Gun : MonoBehaviour
     private bool isReloading;
 
     private float nextTimeToFire = 0f;
+
+    private bool ableToShoot;
 
     [Header("Text UI Stuff")]
     public TextMeshProUGUI cAmmo;
@@ -36,6 +39,7 @@ public class Gun : MonoBehaviour
     void Start()
     {
         currentAmmo = ammoInClip;
+        ableToShoot = true;
     }
 
     void OnEnable()
@@ -56,14 +60,14 @@ public class Gun : MonoBehaviour
             return;
 
         //Reloads if clip is empty
-        if(currentAmmo <= 0)
+        if(currentAmmo <= 0 && ableToShoot == true)
         {
             StartCoroutine(Reload());
             maxAmmo -= ammoInClip;
             return;
         }
         //Reloads if Ammo has been shot and player presses reload button "r"
-        if(currentAmmo < ammoInClip && Input.GetButtonDown("Reload"))
+        if(currentAmmo < ammoInClip && Input.GetButtonDown("Reload") && ableToShoot == true)
         {
             StartCoroutine(Reload());
             maxAmmo = maxAmmo - (ammoInClip - currentAmmo);
@@ -74,16 +78,22 @@ public class Gun : MonoBehaviour
         if (Input.GetButtonDown("Fire1") && Time.time >= nextTimeToFire)
         {
             nextTimeToFire = Time.time + 1f / fireRate;
-            Shoot();
+            if(ableToShoot == true)
+                Shoot();
+
         }
 
 
-        /*
+        
         if(maxAmmo <= 0 && currentAmmo <= 0)
         {
-            Destroy(gameObject);
+            ableToShoot = false;
         }
-        */
+        if(ableToShoot == false)
+        {
+            currentAmmo = 0;
+            maxAmmo = 0;
+        }
     }
 
     IEnumerator Reload()
