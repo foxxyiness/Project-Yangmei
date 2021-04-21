@@ -5,6 +5,7 @@ using TMPro;
 
 public class Gun : MonoBehaviour
 {
+   
     [Header("Gun Fire and More")]
     public float damage = 25f;
     public float range = 100f;
