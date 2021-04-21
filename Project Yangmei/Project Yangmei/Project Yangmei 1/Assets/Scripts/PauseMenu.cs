@@ -8,11 +8,6 @@ public class PauseMenu : MonoBehaviour
 {
     public GameObject ui;
 
-    private void Start()
-    {
-        
-    }
-
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Escape))
@@ -27,12 +22,14 @@ public class PauseMenu : MonoBehaviour
             Time.timeScale = 0f;
             Cursor.lockState = CursorLockMode.None;
             Cursor.visible = true;
+            Gun.gun.ableToShoot = false;
         }
         else
         {
             Time.timeScale = 1f;
             Cursor.lockState = CursorLockMode.Locked;
             Cursor.visible = true;
+            Gun.gun.ableToShoot = true;
         }
            
     }

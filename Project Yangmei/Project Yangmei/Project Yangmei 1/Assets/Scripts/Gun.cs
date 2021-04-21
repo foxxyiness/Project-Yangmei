@@ -5,7 +5,7 @@ using TMPro;
 
 public class Gun : MonoBehaviour
 {
-   
+    public static Gun gun;
     [Header("Gun Fire and More")]
     public float damage = 25f;
     public float range = 100f;
@@ -21,7 +21,7 @@ public class Gun : MonoBehaviour
 
     private float nextTimeToFire = 0f;
 
-    private bool ableToShoot;
+    public bool ableToShoot;
 
     [Header("Text UI Stuff")]
     public TextMeshProUGUI cAmmo;
@@ -41,6 +41,7 @@ public class Gun : MonoBehaviour
     {
         currentAmmo = ammoInClip;
         ableToShoot = true;
+        gun = this;
     }
 
     void OnEnable()
