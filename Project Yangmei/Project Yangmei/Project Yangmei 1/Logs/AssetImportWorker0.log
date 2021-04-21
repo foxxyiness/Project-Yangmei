@@ -1581,3 +1581,141 @@ System memory in use after: 84.4 MB.
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1871.
 Total: 2.226300 ms (FindLiveObjects: 0.250400 ms CreateObjectMapping: 0.032200 ms MarkObjects: 1.842400 ms  DeleteObjects: 0.099900 ms)
 
+========================================================================
+Received Prepare
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 1.12 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.9 MB.
+System memory in use after: 60.0 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1871.
+Total: 3.029600 ms (FindLiveObjects: 0.261400 ms CreateObjectMapping: 0.031200 ms MarkObjects: 2.488600 ms  DeleteObjects: 0.247100 ms)
+
+========================================================================
+Received Prepare
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.9 MB.
+System memory in use after: 60.0 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1871.
+Total: 2.580400 ms (FindLiveObjects: 0.239600 ms CreateObjectMapping: 0.031400 ms MarkObjects: 2.199600 ms  DeleteObjects: 0.108800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 5964.168128 seconds.
+  path: Assets/Scenes/ADG_Textures/ground_vol1/ground3/NewLayer.terrainlayer
+  artifactKey: Guid(6d4da98d691260e4391d158fadace3e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ADG_Textures/ground_vol1/ground3/NewLayer.terrainlayer using Guid(6d4da98d691260e4391d158fadace3e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a41d9e04a8e8f5fb91cd201d4ae5836d') in 0.056065 seconds
+  Import took 0.059554 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001111 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.738 seconds
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1211 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.3 MB.
+System memory in use after: 84.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1873.
+Total: 2.107700 ms (FindLiveObjects: 0.344300 ms CreateObjectMapping: 0.039200 ms MarkObjects: 1.627200 ms  DeleteObjects: 0.096000 ms)
+
+========================================================================
+Received Prepare
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 1.02 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.9 MB.
+System memory in use after: 60.0 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1873.
+Total: 2.531000 ms (FindLiveObjects: 0.236500 ms CreateObjectMapping: 0.031900 ms MarkObjects: 2.153300 ms  DeleteObjects: 0.108200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000987 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.679 seconds
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1211 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.3 MB.
+System memory in use after: 84.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1875.
+Total: 3.040000 ms (FindLiveObjects: 0.249200 ms CreateObjectMapping: 0.050300 ms MarkObjects: 2.636700 ms  DeleteObjects: 0.101700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000989 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.682 seconds
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1211 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.3 MB.
+System memory in use after: 84.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1877.
+Total: 2.319200 ms (FindLiveObjects: 0.293400 ms CreateObjectMapping: 0.044500 ms MarkObjects: 1.878900 ms  DeleteObjects: 0.101100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1711.190594 seconds.
+  path: Assets/Scenes/ADG_Textures/ground_vol1/ground3/NewLayer.terrainlayer
+  artifactKey: Guid(6d4da98d691260e4391d158fadace3e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ADG_Textures/ground_vol1/ground3/NewLayer.terrainlayer using Guid(6d4da98d691260e4391d158fadace3e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d13c67786afd4de707def38a2460a13') in 0.034986 seconds
+  Import took 0.038300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005004 seconds.
+  path: Assets/Scenes/ADG_Textures/ground_vol1/ground3/NewLayer.terrainlayer
+  artifactKey: Guid(6d4da98d691260e4391d158fadace3e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ADG_Textures/ground_vol1/ground3/NewLayer.terrainlayer using Guid(6d4da98d691260e4391d158fadace3e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d13c67786afd4de707def38a2460a13') in 0.010867 seconds
+  Import took 0.013738 seconds .
+
