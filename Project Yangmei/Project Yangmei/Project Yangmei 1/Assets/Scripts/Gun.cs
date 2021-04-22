@@ -59,7 +59,9 @@ public class Gun : MonoBehaviour
 
         //Checks to see if gun is reloading
         if (isReloading)
+        {
             return;
+        }
 
         //Reloads if clip is empty
         if(currentAmmo <= 0 && ableToShoot == true)
@@ -85,13 +87,16 @@ public class Gun : MonoBehaviour
 
         }
 
-
+        if(maxAmmo <= 0)
+        {
+            maxAmmo = 0;
+        }
         
         if(maxAmmo <= 0 && currentAmmo <= 0)
         {
             ableToShoot = false;
         }
-        if(ableToShoot == false)
+        if(ableToShoot == false && maxAmmo <=0 && currentAmmo <= 0)
         {
             currentAmmo = 0;
             maxAmmo = 0;
