@@ -5,6 +5,7 @@ using UnityEngine.AI;
 
 public class EnemyMovement : MonoBehaviour
 {
+    PlayerHealth playerHealth;
     public float lookRaduis = 10f;
     Transform target;
     NavMeshAgent agent;
@@ -27,10 +28,12 @@ public class EnemyMovement : MonoBehaviour
         {
             FaceTarget();
         }
+       
     }
 
     void FaceTarget()
     {
+       
         Vector3 direction = (target.position - transform.position).normalized;
         Quaternion lookRotation = Quaternion.LookRotation(new Vector3(direction.x, 0, direction.z));
         transform.rotation = Quaternion.Slerp(transform.rotation, lookRotation, Time.deltaTime * 5f);
