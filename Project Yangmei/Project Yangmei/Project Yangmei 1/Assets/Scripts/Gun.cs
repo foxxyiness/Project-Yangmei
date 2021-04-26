@@ -79,7 +79,7 @@ public class Gun : MonoBehaviour
         }
 
         //Shoots weapon if Left Clip is presses with the rate of fire for the weapon
-        if (Input.GetButtonDown("Fire1") && Time.time >= nextTimeToFire)
+        if (Input.GetButton("Fire1") && Time.time >= nextTimeToFire)
         {
             nextTimeToFire = Time.time + 1f / fireRate;
             if(ableToShoot == true)
