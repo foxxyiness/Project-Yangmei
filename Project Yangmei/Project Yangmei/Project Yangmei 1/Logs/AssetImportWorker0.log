@@ -15,11 +15,11 @@ C:/Users/Julian/Documents/GitHub/Project-Yangmei/Project Yangmei/Project Yangmei
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-63226
+52713
 Successfully changed project path to: C:/Users/Julian/Documents/GitHub/Project-Yangmei/Project Yangmei/Project Yangmei/Project Yangmei 1
 C:/Users/Julian/Documents/GitHub/Project-Yangmei/Project Yangmei/Project Yangmei/Project Yangmei 1
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 30.86 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 30.51 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.2f1 (068178b99f32)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Resources/UnitySubsystems
@@ -37,19 +37,196 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56992
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56624
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.056118 seconds.
+Registered in 0.715563 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 32.94 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 30.77 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.390 seconds
+- Completed reload, in  4.618 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001305 seconds.
+Registered in 0.001087 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.747 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1272 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.9 MB.
+System memory in use after: 86.0 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1743.
+Total: 2.103800 ms (FindLiveObjects: 0.220100 ms CreateObjectMapping: 0.033800 ms MarkObjects: 1.697700 ms  DeleteObjects: 0.151500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Prefabs/Grenade.prefab
+  artifactKey: Guid(db2e146dcb04b104eb421ddf08dc20d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Grenade.prefab using Guid(db2e146dcb04b104eb421ddf08dc20d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '097d3bc1d4037908ea9e0e93c56d0dae') in 1.171117 seconds
+  Import took 1.199454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.607586 seconds.
+  path: Assets/Prefabs/Grenade.prefab
+  artifactKey: Guid(db2e146dcb04b104eb421ddf08dc20d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Grenade.prefab using Guid(db2e146dcb04b104eb421ddf08dc20d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '097d3bc1d4037908ea9e0e93c56d0dae') in 0.047851 seconds
+  Import took 0.055121 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001079 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.653 seconds
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1216 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.1 MB.
+System memory in use after: 86.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1753.
+Total: 2.152200 ms (FindLiveObjects: 0.210500 ms CreateObjectMapping: 0.031900 ms MarkObjects: 1.790800 ms  DeleteObjects: 0.117700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001157 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.714 seconds
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1216 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.1 MB.
+System memory in use after: 86.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1755.
+Total: 2.291800 ms (FindLiveObjects: 0.222700 ms CreateObjectMapping: 0.031600 ms MarkObjects: 1.917000 ms  DeleteObjects: 0.119600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 141.128858 seconds.
+  path: Assets/Prefabs/Grenade.prefab
+  artifactKey: Guid(db2e146dcb04b104eb421ddf08dc20d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Grenade.prefab using Guid(db2e146dcb04b104eb421ddf08dc20d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd368f2d02dbc50cf3d7984e666025d19') in 0.072814 seconds
+  Import took 0.090260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.582721 seconds.
+  path: Assets/Prefabs/Grenade.prefab
+  artifactKey: Guid(db2e146dcb04b104eb421ddf08dc20d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Grenade.prefab using Guid(db2e146dcb04b104eb421ddf08dc20d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9048f03b2a490dd395d30992eab364f6') in 0.213927 seconds
+  Import took 0.250501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.735058 seconds.
+  path: Assets/Prefabs/Grenade.prefab
+  artifactKey: Guid(db2e146dcb04b104eb421ddf08dc20d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Grenade.prefab using Guid(db2e146dcb04b104eb421ddf08dc20d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd16eb717a3e9b90e3d89c7d82f720298') in 0.052442 seconds
+  Import took 0.074249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.731102 seconds.
+  path: Assets/Prefabs/Grenade.prefab
+  artifactKey: Guid(db2e146dcb04b104eb421ddf08dc20d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Grenade.prefab using Guid(db2e146dcb04b104eb421ddf08dc20d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09583ade41736fc26f3f4cd952c4df7b') in 0.243341 seconds
+  Import took 0.278017 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.725473 seconds.
+  path: Assets/Prefabs/Grenade.prefab
+  artifactKey: Guid(db2e146dcb04b104eb421ddf08dc20d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Grenade.prefab using Guid(db2e146dcb04b104eb421ddf08dc20d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdd7ebd6c78a8bf219d292fdeb5a7c47') in 0.036032 seconds
+  Import took 0.051005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.468676 seconds.
+  path: Assets/Prefabs/Grenade.prefab
+  artifactKey: Guid(db2e146dcb04b104eb421ddf08dc20d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Grenade.prefab using Guid(db2e146dcb04b104eb421ddf08dc20d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae12be793bd7545edb474aca2d72c0bd') in 0.023328 seconds
+  Import took 0.053558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.421566 seconds.
+  path: Assets/Prefabs/Grenade.prefab
+  artifactKey: Guid(db2e146dcb04b104eb421ddf08dc20d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Grenade.prefab using Guid(db2e146dcb04b104eb421ddf08dc20d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da2b46d4207e81010b2ab99f916a4210') in 0.146863 seconds
+  Import took 0.163105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.008390 seconds.
+  path: Assets/Prefabs/Grenade.prefab
+  artifactKey: Guid(db2e146dcb04b104eb421ddf08dc20d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Grenade.prefab using Guid(db2e146dcb04b104eb421ddf08dc20d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23984d487c017edd483438d099b5ee5b') in 0.022556 seconds
+  Import took 0.032571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.741865 seconds.
+  path: Assets/Prefabs/Grenade.prefab
+  artifactKey: Guid(db2e146dcb04b104eb421ddf08dc20d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Grenade.prefab using Guid(db2e146dcb04b104eb421ddf08dc20d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edaa577eb91302911fcac04af36f3f5d') in 0.024722 seconds
+  Import took 0.041479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.605383 seconds.
+  path: Assets/Prefabs/Grenade.prefab
+  artifactKey: Guid(db2e146dcb04b104eb421ddf08dc20d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Grenade.prefab using Guid(db2e146dcb04b104eb421ddf08dc20d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a875717908ab9e252f108e01290bf0f7') in 0.190151 seconds
+  Import took 0.198094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.738927 seconds.
+  path: Assets/Prefabs/Grenade.prefab
+  artifactKey: Guid(db2e146dcb04b104eb421ddf08dc20d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Grenade.prefab using Guid(db2e146dcb04b104eb421ddf08dc20d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8be812617bd0ca5f353b2d50343a7579') in 0.024030 seconds
+  Import took 0.040891 seconds .
+
