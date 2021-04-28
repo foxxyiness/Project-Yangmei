@@ -19,5 +19,6 @@ public class Target : MonoBehaviour
     {
         Destroy(gameObject);
         PlayerManager.money += killPoints;
+        GameManager.zombiesLeft--;
     }
 }
