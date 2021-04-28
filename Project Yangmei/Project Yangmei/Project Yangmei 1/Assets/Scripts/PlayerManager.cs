@@ -13,4 +13,10 @@ public class PlayerManager : MonoBehaviour
     #endregion
 
     public GameObject player;
+
+    public static int money = 0;
+    void Start()
+    {
+        money = 500;
+    }
 }

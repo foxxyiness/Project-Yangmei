@@ -131,6 +131,7 @@ public class Gun : MonoBehaviour
             if(target != null)
             {
                 target.TakeDamage(damage);
+                PlayerManager.money += 25;
             }
 
            Instantiate(muzzleFlash, muzzle.position, muzzle.rotation);

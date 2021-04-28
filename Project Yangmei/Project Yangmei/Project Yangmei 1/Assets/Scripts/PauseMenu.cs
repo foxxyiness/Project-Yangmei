@@ -6,15 +6,31 @@ using TMPro;
 
 public class PauseMenu : MonoBehaviour
 {
-    public GameObject ui;
+    public GameObject pauseUI, shopUI;
+    public int rifleCost = 3000;
+    public int grenadeCost = 2000;
+    public static bool canBuyRifle;
+    public static bool canBuyGrenade;
 
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Escape))
-            Toggle();
+        {
+            Toggle(pauseUI);
+        }
+        if (Input.GetKeyDown(KeyCode.Tab))
+        {
+            Toggle(shopUI);
+        }
+
+        if(pauseUI.activeSelf && shopUI.activeSelf)
+        {
+            Toggle(shopUI);
+            Time.timeScale = 0f;
+        }
     }
 
-    public void Toggle()
+    public void Toggle(GameObject ui)
     {
         ui.SetActive(!ui.activeSelf);
         if (ui.activeSelf)
@@ -36,7 +52,7 @@ public class PauseMenu : MonoBehaviour
 
     public void Retry()
     {
-        Toggle();
+        Toggle(pauseUI);
         SceneManager.LoadScene(0);
     }
 
@@ -47,5 +63,34 @@ public class PauseMenu : MonoBehaviour
     public void Exit()
     {
         Application.Quit();
+    }
+
+    public void BuyAssaultRifle()
+    {
+        if(rifleCost > PlayerManager.money)
+        {
+            Debug.Log("Cannot buy weapon");
+        }
+        else
+        {
+            PlayerManager.money -= rifleCost;
+            Debug.Log("Bought Rifle");
+            canBuyRifle = true;
+        }
+        
+    }
+
+    public void BuyGrenade()
+    {
+        if (grenadeCost > PlayerManager.money)
+        {
+            Debug.Log("Cannot buy weapon");
+        }
+        else
+        {
+            PlayerManager.money -= grenadeCost;
+            Debug.Log("Bought Grenade");
+            canBuyGrenade = true;
+        }
     }
 }
