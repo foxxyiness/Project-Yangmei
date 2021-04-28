@@ -880,3 +880,557 @@ Received Import Request.
 Start importing Assets/Imports/Tree9/Tree9_5.prefab using Guid(9b8fc966f95ea9c4194dc091fc40b478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '028471cc709eff43689a7f56b1eb7ee2') in 0.023142 seconds
   Import took 0.025926 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1230.345046 seconds.
+  path: Assets/Wasteland Cabin
+  artifactKey: Guid(d1b9727ef279cb84d898584f4f5f6378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin using Guid(d1b9727ef279cb84d898584f4f5f6378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cb30c7866c33a8e3546abba787356cd') in 0.002782 seconds
+  Import took 0.005322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.158015 seconds.
+  path: Assets/Wasteland Cabin/Prefabs
+  artifactKey: Guid(f36ecfffcc38c3a45ae5609ef4550240) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Prefabs using Guid(f36ecfffcc38c3a45ae5609ef4550240) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fc65dd59ad6d9bbc34d9b0a30ac9ad1') in 0.015078 seconds
+  Import took 0.017613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.109973 seconds.
+  path: Assets/Wasteland Cabin/Prefabs/Wast_Antlers.prefab
+  artifactKey: Guid(ca36483aa15fc9945956c267be5d2c17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Prefabs/Wast_Antlers.prefab using Guid(ca36483aa15fc9945956c267be5d2c17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '192d2bcc8986f1153653e29a7f1066b4') in 0.018439 seconds
+  Import took 0.021069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Wasteland Cabin/Prefabs/Wast_Shower.prefab
+  artifactKey: Guid(55aaa642a66c80b4e8148fff6b23e814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Prefabs/Wast_Shower.prefab using Guid(55aaa642a66c80b4e8148fff6b23e814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02296d3e912f73840edc33fe642d4147') in 0.013500 seconds
+  Import took 0.016039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Wasteland Cabin/Prefabs/Wast_Antlers_2.prefab
+  artifactKey: Guid(dc37acd7d6a4c8849ba232d6a4ee1b9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Prefabs/Wast_Antlers_2.prefab using Guid(dc37acd7d6a4c8849ba232d6a4ee1b9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c699b305297da3e28e8be478b70ebd7f') in 0.015417 seconds
+  Import took 0.017663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Wasteland Cabin/Prefabs/Wast_Sofa.prefab
+  artifactKey: Guid(136f451f44060c34b81141b659288ee3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Prefabs/Wast_Sofa.prefab using Guid(136f451f44060c34b81141b659288ee3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e7552926dc8c53eb11e6ad16c485987') in 0.032769 seconds
+  Import took 0.036117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Wasteland Cabin/Prefabs/Wast_Painting.prefab
+  artifactKey: Guid(a00b7819306d7e44d8448bade097361e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Prefabs/Wast_Painting.prefab using Guid(a00b7819306d7e44d8448bade097361e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaa169e4af717f2204c50890e93f2763') in 0.021578 seconds
+  Import took 0.023867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/Wasteland Cabin/Prefabs/Wast_MirrorShelf.prefab
+  artifactKey: Guid(10b21081571719844b25dd4b72d7c676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Prefabs/Wast_MirrorShelf.prefab using Guid(10b21081571719844b25dd4b72d7c676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d056aa73d9610f348255423c0252ff5') in 0.013657 seconds
+  Import took 0.016131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Wasteland Cabin/Prefabs/Wast_Chest.prefab
+  artifactKey: Guid(5601e4117dbe1c84a8407c3604a42a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Prefabs/Wast_Chest.prefab using Guid(5601e4117dbe1c84a8407c3604a42a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7b69d77dc778b12971e758f8a7310a0') in 0.020396 seconds
+  Import took 0.022424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Wasteland Cabin/Prefabs/Wast_TableTelevision.prefab
+  artifactKey: Guid(e365fa8662b035940b2afe3570ed451a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Prefabs/Wast_TableTelevision.prefab using Guid(e365fa8662b035940b2afe3570ed451a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23481b13fa076adadf51b15843658e84') in 0.010421 seconds
+  Import took 0.012552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Wasteland Cabin/Prefabs/Wast_Table.prefab
+  artifactKey: Guid(f1735c88c82f25f42a415ad9db4dda91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Prefabs/Wast_Table.prefab using Guid(f1735c88c82f25f42a415ad9db4dda91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66a08680a3b3a8486e2f45c05f1aefba') in 0.018679 seconds
+  Import took 0.020950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Wasteland Cabin/Prefabs/Wast_Suspension.prefab
+  artifactKey: Guid(01da0567db700c449ab71178dfff6373) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Prefabs/Wast_Suspension.prefab using Guid(01da0567db700c449ab71178dfff6373) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5d546446208f50ed34920769eca0ca4') in 0.015933 seconds
+  Import took 0.018401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/Wasteland Cabin/Prefabs/Wast_BeerCan.prefab
+  artifactKey: Guid(a8b97d9e9636f4c41a604de3754917da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Prefabs/Wast_BeerCan.prefab using Guid(a8b97d9e9636f4c41a604de3754917da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bf4a50ce6d6e1b664815eae318b1ebf') in 0.014737 seconds
+  Import took 0.017684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Wasteland Cabin/Prefabs/Wast_Chair.prefab
+  artifactKey: Guid(65c45bfeb27ea2d4f93252a31a90513c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Prefabs/Wast_Chair.prefab using Guid(65c45bfeb27ea2d4f93252a31a90513c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aef755ecb1c61b96aedeb3053ce2701c') in 0.018633 seconds
+  Import took 0.021230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Wasteland Cabin/Prefabs/Wast_Fridge.prefab
+  artifactKey: Guid(4ba2307d7b6e6a54886262670699c11d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Prefabs/Wast_Fridge.prefab using Guid(4ba2307d7b6e6a54886262670699c11d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afda2c1ea527dc73b7edcdc3565e452c') in 0.029822 seconds
+  Import took 0.033855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Wasteland Cabin/Prefabs/Wast_Generator.prefab
+  artifactKey: Guid(e88b2fcbeedb2464bba3bbf7541c7edb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Prefabs/Wast_Generator.prefab using Guid(e88b2fcbeedb2464bba3bbf7541c7edb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b75f8bad35fc11a2b2c135d711aff9de') in 0.020947 seconds
+  Import took 0.023530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Wasteland Cabin/Prefabs/Wast_Gas_Can.prefab
+  artifactKey: Guid(86163d1770fbaff47bad63dfc78a24b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Prefabs/Wast_Gas_Can.prefab using Guid(86163d1770fbaff47bad63dfc78a24b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '244e8fbf6320a5a37d63ba6f959bff45') in 0.010737 seconds
+  Import took 0.013416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Wasteland Cabin/Prefabs/Wast_Gun.prefab
+  artifactKey: Guid(c6ddfe6835506aa469ccf4abead40bce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Prefabs/Wast_Gun.prefab using Guid(c6ddfe6835506aa469ccf4abead40bce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f40307e1a497296ae86dbd9be4512e23') in 0.011943 seconds
+  Import took 0.014318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Wasteland Cabin/Prefabs/Wast_Light.prefab
+  artifactKey: Guid(daa1682d1d073b047bea8bd2db60c359) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Prefabs/Wast_Light.prefab using Guid(daa1682d1d073b047bea8bd2db60c359) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4681e84b15af376fdd96484fe1d53b9') in 0.012798 seconds
+  Import took 0.014781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/Wasteland Cabin/Prefabs/Wast_Axe.prefab
+  artifactKey: Guid(cce5e9dcfa8fe324db17ad993dc4a5b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Prefabs/Wast_Axe.prefab using Guid(cce5e9dcfa8fe324db17ad993dc4a5b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02200adcb1841e05bb845855c1485c8e') in 0.012028 seconds
+  Import took 0.014964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Wasteland Cabin/Prefabs/Wast_KitchenShelf.prefab
+  artifactKey: Guid(7cfbdc7ca6ffbe546ae21921a1ce36cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Prefabs/Wast_KitchenShelf.prefab using Guid(7cfbdc7ca6ffbe546ae21921a1ce36cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4291676a68c44c18f8f912d468469b5d') in 0.020707 seconds
+  Import took 0.023260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Wasteland Cabin/Prefabs/Wast_Front_Door.prefab
+  artifactKey: Guid(c67d454dd6e1195469457ef051536a6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Prefabs/Wast_Front_Door.prefab using Guid(c67d454dd6e1195469457ef051536a6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85a3e61c757a47f5d2159e74585c98dc') in 0.216084 seconds
+  Import took 0.219358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Wasteland Cabin/Prefabs/Wast_smallTable.prefab
+  artifactKey: Guid(f9914c3a6fab6f649bfce3fb747be8e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Prefabs/Wast_smallTable.prefab using Guid(f9914c3a6fab6f649bfce3fb747be8e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5875cbb51b8fe6231686a37d45a1138') in 0.018773 seconds
+  Import took 0.021060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/Wasteland Cabin/Prefabs/Wast_Bed.prefab
+  artifactKey: Guid(3e32807266f65e84a914634898e918cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Prefabs/Wast_Bed.prefab using Guid(3e32807266f65e84a914634898e918cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c6ba1be30c09e475e4455e62a59f950') in 0.017607 seconds
+  Import took 0.035029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Wasteland Cabin/Prefabs/Wast_Carpet.prefab
+  artifactKey: Guid(0963a7147c11771498e0fcf92de5ee40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Prefabs/Wast_Carpet.prefab using Guid(0963a7147c11771498e0fcf92de5ee40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abdbb609877adfddab1c191e2f9c3d8f') in 0.011519 seconds
+  Import took 0.014134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Wasteland Cabin/Prefabs/Wast_Furnance.prefab
+  artifactKey: Guid(6f8100153f56b1f4caf379b235232c02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Prefabs/Wast_Furnance.prefab using Guid(6f8100153f56b1f4caf379b235232c02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9040cb1ef815be696b3fb1e1a74ca8a3') in 0.017119 seconds
+  Import took 0.019536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Wasteland Cabin/Prefabs/Wast_Sink.prefab
+  artifactKey: Guid(2056c82661e70664495aabe667e7c5af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Prefabs/Wast_Sink.prefab using Guid(2056c82661e70664495aabe667e7c5af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcbf3f2e6f975adb8ecc00aecf61d56f') in 0.019424 seconds
+  Import took 0.022237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.133115 seconds.
+  path: Assets/Wasteland Cabin/Prefabs/Wast_Tap.prefab
+  artifactKey: Guid(28253195bcf82d443b26dd7e1370fca1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Prefabs/Wast_Tap.prefab using Guid(28253195bcf82d443b26dd7e1370fca1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c50bb6abda94012e8052abad6bb1913a') in 0.009883 seconds
+  Import took 0.012476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Wasteland Cabin/Prefabs/Wast_Washing_Machine.prefab
+  artifactKey: Guid(8396cccafb78c934eb5ffeebd044ab1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Prefabs/Wast_Washing_Machine.prefab using Guid(8396cccafb78c934eb5ffeebd044ab1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd241367dfe3199a72e7a8c2f97a30269') in 0.016408 seconds
+  Import took 0.018652 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Wasteland Cabin/Prefabs/Wast_Towels.prefab
+  artifactKey: Guid(938debf0c13c0f04abc408a704e5ba69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Prefabs/Wast_Towels.prefab using Guid(938debf0c13c0f04abc408a704e5ba69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9aa03a72457dcb577dd0dcd981520c23') in 0.010919 seconds
+  Import took 0.013021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Wasteland Cabin/Prefabs/Wast_Toilet.prefab
+  artifactKey: Guid(55c5045d503b2144f9b31a416ee3e421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Prefabs/Wast_Toilet.prefab using Guid(55c5045d503b2144f9b31a416ee3e421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ad5f89ab9b93fa39959f588e8837361') in 0.011907 seconds
+  Import took 0.015162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Wasteland Cabin/Prefabs/Wast_Wardrobe.prefab
+  artifactKey: Guid(878d07f910366e44c8be4c36d0c95e1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Prefabs/Wast_Wardrobe.prefab using Guid(878d07f910366e44c8be4c36d0c95e1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c627782f6007ac494d27596a7609a8b8') in 0.019639 seconds
+  Import took 0.022977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Wasteland Cabin/Prefabs/Wasteland_Cabin_Filled.prefab
+  artifactKey: Guid(b4d0d3252571eb9468266301b65df7d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Prefabs/Wasteland_Cabin_Filled.prefab using Guid(b4d0d3252571eb9468266301b65df7d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e017da6cea3e19b3bb3cb6db5a1e9ff') in 0.517386 seconds
+  Import took 0.561326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Wasteland Cabin/Prefabs/Wast_Wood.prefab
+  artifactKey: Guid(daca64bc6a75b5040ab6ecf4fa989573) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Prefabs/Wast_Wood.prefab using Guid(daca64bc6a75b5040ab6ecf4fa989573) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8782f3a685cf5621c358f0aff26a52f3') in 0.026518 seconds
+  Import took 0.029860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/Wasteland Cabin/Prefabs/Wasteland_Cabin_Empty.prefab
+  artifactKey: Guid(5fcfdca045ca3484baf910aae6bffc54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Prefabs/Wasteland_Cabin_Empty.prefab using Guid(5fcfdca045ca3484baf910aae6bffc54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '088bc54f5d5db1749a49c4ecffa137b3') in 0.115718 seconds
+  Import took 0.125612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Wasteland Cabin/Prefabs/Wast_Television.prefab
+  artifactKey: Guid(d0f9eb7b2b6651a42b667748b216fc74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Prefabs/Wast_Television.prefab using Guid(d0f9eb7b2b6651a42b667748b216fc74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4b23b965cdbb2ca21ee2ae413a99d7e') in 0.016818 seconds
+  Import took 0.019686 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001021 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.661 seconds
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1216 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.1 MB.
+System memory in use after: 98.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1821.
+Total: 2.007800 ms (FindLiveObjects: 0.224200 ms CreateObjectMapping: 0.032000 ms MarkObjects: 1.617400 ms  DeleteObjects: 0.133500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000911 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.641 seconds
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1216 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.1 MB.
+System memory in use after: 98.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1823.
+Total: 1.904500 ms (FindLiveObjects: 0.205800 ms CreateObjectMapping: 0.032600 ms MarkObjects: 1.567300 ms  DeleteObjects: 0.097700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 997.639892 seconds.
+  path: Assets/Wasteland Cabin/Models
+  artifactKey: Guid(72330e25264ec804bac2a5335f7a1179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Models using Guid(72330e25264ec804bac2a5335f7a1179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '148583f0e866f1f0aa441ac9e398df74') in 0.006321 seconds
+  Import took 0.010010 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009964 seconds.
+  path: Assets/Wasteland Cabin/Models
+  artifactKey: Guid(72330e25264ec804bac2a5335f7a1179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Models using Guid(72330e25264ec804bac2a5335f7a1179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '148583f0e866f1f0aa441ac9e398df74') in 0.002188 seconds
+  Import took 0.003808 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038797 seconds.
+  path: Assets/Wasteland Cabin/Models/Wast_Antlers.fbx
+  artifactKey: Guid(31fa931e7f5630d468a3b5f5b873cf3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Models/Wast_Antlers.fbx using Guid(31fa931e7f5630d468a3b5f5b873cf3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03f58b5e8d614f633b8e481b8e6759ff') in 0.107988 seconds
+  Import took 0.110734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/Wasteland Cabin/Models/Wast_Furnance.fbx
+  artifactKey: Guid(378704b1d3a63a24ab07badd13b1a3da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Models/Wast_Furnance.fbx using Guid(378704b1d3a63a24ab07badd13b1a3da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6933c92b4b3d3b43df473d77be77c0c') in 0.020593 seconds
+  Import took 0.023353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/Wasteland Cabin/Models/Wast_Light.fbx
+  artifactKey: Guid(6249e110737e18948b7be04805ffd39c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Models/Wast_Light.fbx using Guid(6249e110737e18948b7be04805ffd39c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd2db2daa8c66b8df77c7c1fcb718ebf') in 0.014578 seconds
+  Import took 0.017122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Wasteland Cabin/Models/Wast_Front_Door_Frame.fbx
+  artifactKey: Guid(552d5562814c499448479aad7c580176) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Models/Wast_Front_Door_Frame.fbx using Guid(552d5562814c499448479aad7c580176) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae1820591b02793b270b44312104ae4d') in 0.023382 seconds
+  Import took 0.026196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000582 seconds.
+  path: Assets/Wasteland Cabin/Models/Wast_Painting.fbx
+  artifactKey: Guid(15688b7a0c7c56b49a11930c51549b84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Models/Wast_Painting.fbx using Guid(15688b7a0c7c56b49a11930c51549b84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d4b98ebd909001db8c1042d64ace4e0') in 0.022243 seconds
+  Import took 0.025235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/Wasteland Cabin/Models/Wast_Fridge.fbx
+  artifactKey: Guid(c2cee5f13b767f34c866b04832b6e6e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Models/Wast_Fridge.fbx using Guid(c2cee5f13b767f34c866b04832b6e6e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01e4eb53b4e8028a56095f63c74f30ce') in 0.056944 seconds
+  Import took 0.060766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/Wasteland Cabin/Models/Wast_Gun.fbx
+  artifactKey: Guid(be24fed2629490943b41974f301defa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Models/Wast_Gun.fbx using Guid(be24fed2629490943b41974f301defa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc5e40e1925393baf2bbeaa17cd0c401') in 0.015581 seconds
+  Import took 0.018318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Wasteland Cabin/Models/Wast_Sofa.fbx
+  artifactKey: Guid(26d16b68a87944d4fb56d7b703825828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Models/Wast_Sofa.fbx using Guid(26d16b68a87944d4fb56d7b703825828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1af6ee4e9fe5364b60f8dc667e73c340') in 0.049095 seconds
+  Import took 0.052683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/Wasteland Cabin/Models/Wast_Front_Door.fbx
+  artifactKey: Guid(9138f6e95fddfaf45af93b3f1db46e12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Models/Wast_Front_Door.fbx using Guid(9138f6e95fddfaf45af93b3f1db46e12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f38c5174ed81c5f61123692c112c5310') in 0.044934 seconds
+  Import took 0.047588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Wasteland Cabin/Models/Wast_KitchenShelf.fbx
+  artifactKey: Guid(60b7d795329ea0a4883e5647eb488dae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Models/Wast_KitchenShelf.fbx using Guid(60b7d795329ea0a4883e5647eb488dae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd851b205878bfb0e7ea03eebfdad1b42') in 0.020273 seconds
+  Import took 0.022852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Wasteland Cabin/Models/Wast_Gas_Can.fbx
+  artifactKey: Guid(51d0948202d628f49bf41334aebef765) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Models/Wast_Gas_Can.fbx using Guid(51d0948202d628f49bf41334aebef765) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '852513105b33fc5d15d9857330e4e685') in 0.021817 seconds
+  Import took 0.024781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/Wasteland Cabin/Models/Wast_BeerCan.fbx
+  artifactKey: Guid(17f99b6c686a2c349a4420262bd58ae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Models/Wast_BeerCan.fbx using Guid(17f99b6c686a2c349a4420262bd58ae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db6533b783cf123a6c2a4df135b176f2') in 0.018044 seconds
+  Import took 0.020838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Wasteland Cabin/Models/Wast_Antlers_2.fbx
+  artifactKey: Guid(1bf3e5d2315e9744bb00c887e7dc1110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Models/Wast_Antlers_2.fbx using Guid(1bf3e5d2315e9744bb00c887e7dc1110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e09a14e25ce9db6b598b0a9b9c6b2058') in 0.038817 seconds
+  Import took 0.041646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Wasteland Cabin/Models/Wast_Generator.fbx
+  artifactKey: Guid(f4c82518a4bc68140912eac0aeb75236) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Models/Wast_Generator.fbx using Guid(f4c82518a4bc68140912eac0aeb75236) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cc97d2c73b165c28bc05c7d64303954') in 0.021177 seconds
+  Import took 0.024938 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001804 seconds.
+  path: Assets/Wasteland Cabin/Models/Wast_Sink.fbx
+  artifactKey: Guid(0d2d81f463da0b44b9bbd2146a457754) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Models/Wast_Sink.fbx using Guid(0d2d81f463da0b44b9bbd2146a457754) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dd4f846fd77aa4eb98ecedaeef9bfc0') in 0.014597 seconds
+  Import took 0.017199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Wasteland Cabin/Models/Wast_smallTable.fbx
+  artifactKey: Guid(f9a147f914bb5e64f911466fb4b5a318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Models/Wast_smallTable.fbx using Guid(f9a147f914bb5e64f911466fb4b5a318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60b3b14428615514a180215e243cd76a') in 0.022060 seconds
+  Import took 0.024299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Wasteland Cabin/Models/Wast_Chair.fbx
+  artifactKey: Guid(6b443acfec0f1834bb52e07771ecb6c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Models/Wast_Chair.fbx using Guid(6b443acfec0f1834bb52e07771ecb6c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e473be26916cf1d24dd357c673e9b14') in 0.024774 seconds
+  Import took 0.027424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Wasteland Cabin/Models/Wast_Carpet.fbx
+  artifactKey: Guid(6380c4f04fcad214ab9065c9102f05be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Models/Wast_Carpet.fbx using Guid(6380c4f04fcad214ab9065c9102f05be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4276fbec83323899b6b8fc8750455416') in 0.017521 seconds
+  Import took 0.020653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Wasteland Cabin/Models/Wast_MirrorShelf.fbx
+  artifactKey: Guid(8850ae8d9d1c1404a93e7408dec0fb79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Models/Wast_MirrorShelf.fbx using Guid(8850ae8d9d1c1404a93e7408dec0fb79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df99f9f447fc4388784b42fc141d67e9') in 0.045301 seconds
+  Import took 0.048632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/Wasteland Cabin/Models/Wast_Shower.fbx
+  artifactKey: Guid(00b289baaae947449a4b0875dd7e18c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Models/Wast_Shower.fbx using Guid(00b289baaae947449a4b0875dd7e18c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93517fbcebd9f0f0e10a8dcd553370de') in 0.015873 seconds
+  Import took 0.018860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/Wasteland Cabin/Models/Wast_Bed.fbx
+  artifactKey: Guid(e78756cbf4c1d6a4ca6a88a6f1c6d32e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Models/Wast_Bed.fbx using Guid(e78756cbf4c1d6a4ca6a88a6f1c6d32e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22c7b47bff0bcb2b546bd6651170d0cd') in 0.025261 seconds
+  Import took 0.028760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000548 seconds.
+  path: Assets/Wasteland Cabin/Models/Wast_Suspension.fbx
+  artifactKey: Guid(396fe7ab7c319c74ea1dcb7cada75d50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Models/Wast_Suspension.fbx using Guid(396fe7ab7c319c74ea1dcb7cada75d50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3324a6c63bf0de2bc294c4498b6dd10e') in 0.020479 seconds
+  Import took 0.023433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/Wasteland Cabin/Models/Wast_Table.fbx
+  artifactKey: Guid(dcfc7480bc8b3ad448b2bd7f316575b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Models/Wast_Table.fbx using Guid(dcfc7480bc8b3ad448b2bd7f316575b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f0547ebc13a3859a63fe9ed0efdf08b') in 0.021913 seconds
+  Import took 0.024370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000504 seconds.
+  path: Assets/Wasteland Cabin/Models/Wast_Chest.fbx
+  artifactKey: Guid(03f43f4a53755f24c9074e17ea8d87de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Models/Wast_Chest.fbx using Guid(03f43f4a53755f24c9074e17ea8d87de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db5d67a8278a19b707c3c38f4036a787') in 0.019989 seconds
+  Import took 0.023415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Wasteland Cabin/Models/Wast_Axe.fbx
+  artifactKey: Guid(2b28be4fd4861c94da438acd260d2a04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wasteland Cabin/Models/Wast_Axe.fbx using Guid(2b28be4fd4861c94da438acd260d2a04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e967bf2a71441967c2c2aee6e35e7a25') in 0.014477 seconds
+  Import took 0.016787 seconds .
+
