@@ -12,6 +12,12 @@ public class PauseMenu : MonoBehaviour
     public static bool canBuyRifle;
     public static bool canBuyGrenade;
 
+    void Start()
+    {
+        canBuyGrenade = false;
+        canBuyRifle = false;
+    }
+
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Escape))

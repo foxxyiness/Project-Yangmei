@@ -15,7 +15,7 @@ public class WeaponSelector : MonoBehaviour
     void Update()
     {
         int previousWeapon = selectedWeapon;
-        if(Input.GetAxis("Mouse ScrollWheel") > 0f)
+        if (Input.GetAxis("Mouse ScrollWheel") > 0f && PauseMenu.canBuyRifle == true)
         {
             if(selectedWeapon >= transform.childCount - 1)
             {
@@ -27,7 +27,7 @@ public class WeaponSelector : MonoBehaviour
             }
         }
 
-        if(Input.GetAxis("Mouse ScrollWheel") < 0f)
+        if(Input.GetAxis("Mouse ScrollWheel") < 0f && PauseMenu.canBuyRifle == true)
         {
             if(selectedWeapon <=0)
             {

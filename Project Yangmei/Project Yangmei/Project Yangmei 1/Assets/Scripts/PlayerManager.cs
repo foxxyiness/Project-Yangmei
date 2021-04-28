@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using TMPro;
 public class PlayerManager : MonoBehaviour
 {
     #region Singleton
@@ -15,8 +15,16 @@ public class PlayerManager : MonoBehaviour
     public GameObject player;
 
     public static int money = 0;
+    public TextMeshProUGUI moneyText;
     void Start()
     {
-        money = 500;
+        money = 1000;
     }
+
+    void Update()
+    {
+        moneyText.SetText(money.ToString());
+    }
+
+
 }
