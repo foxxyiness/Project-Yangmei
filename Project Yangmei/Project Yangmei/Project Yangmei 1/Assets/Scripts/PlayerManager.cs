@@ -23,7 +23,7 @@ public class PlayerManager : MonoBehaviour
 
     void Update()
     {
-        moneyText.SetText(money.ToString());
+        moneyText.SetText("$" + money.ToString());
     }
 
 

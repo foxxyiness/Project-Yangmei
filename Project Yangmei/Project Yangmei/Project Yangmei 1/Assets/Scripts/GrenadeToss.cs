@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
 public class GrenadeToss : MonoBehaviour
 {
@@ -9,6 +10,7 @@ public class GrenadeToss : MonoBehaviour
     public float throwForce = 40f;
     public GameObject grenadePrefab;
     public bool ableToThrow;
+    public TextMeshProUGUI grenadeAmmoText;
 
     void Start()
     {
@@ -17,6 +19,7 @@ public class GrenadeToss : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        grenadeAmmoText.SetText(grenadeAmmo.ToString() + "x Grenades");
         if(grenadeAmmo == 0)
         {
             ableToThrow = false;
@@ -28,6 +31,7 @@ public class GrenadeToss : MonoBehaviour
         if(Input.GetKeyDown(KeyCode.Q) && ableToThrow == true)
         {
             ThrowGrenade();
+            grenadeAmmo--;
         }
     }
 
